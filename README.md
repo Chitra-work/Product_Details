@@ -1,5 +1,7 @@
 # Product_Details
 
+Used REACT:
+
 Displays a list of products. 
 A product can have a:
    1) Description
